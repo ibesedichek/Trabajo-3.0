@@ -1,17 +1,19 @@
 // Crear las listas de imágenes, títulos y frases
 const imagenes = [
-  "https://www.postposmo.com/wp-content/uploads/2020/09/Especies-end%C3%A9micas-de-colombia-3.jpg",
-  "https://www.postposmo.com/wp-content/uploads/2020/09/Especies-end%C3%A9micas-de-colombia-4.jpg",
+  "https://i.pinimg.com/474x/bd/70/69/bd706916de1c3f2d4ff811e175f6b648.jpg",
+  "https://yt3.googleusercontent.com/l24_1_or7YiEuBAznvc0nSjZebvFTeAmalimwB2p9VN8VKCfYS9UMnRh65gYbUHjQgl5G1VNgw=s900-c-k-c0x00ffffff-no-rj",
 ];
 
 const titulos = [
-  "Tortuga morrocoy",
-  "Ranita venenosa",
+  "Santa fé",
+  "Millonarios",
+  "Atletico Nacional",
+  "Deportivo Cali", 
 ];
 
 const frases = [
-  "Te alimentas de plantas, frutas, hojas y flores. Vives en bosques de climas cálidos y prefieres la tierra que el agua.",
-  "Eres pequeña pero tu extravagancia no pasa desapercibida. Vives en bosques húmedos y lluviosos y tienes veneno en la piel.",
+  "Representas orgullo, tradición, y una identidad ligada a la perseverancia y al renacer constante.",
+  "Representas fidelidad, mantienes la fe en las buenas y en las malas. Significa nostalgia y apego a generaciones pasadas.",
 ];
 
 // Trae los elementos del HTML que tienen ese id
